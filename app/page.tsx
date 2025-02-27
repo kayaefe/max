@@ -1,7 +1,7 @@
 "use client"  
 
 import { useState } from 'react'
-import Image from "next/image"
+//import Image from "next/image"
 import { SignupForm } from "@/components/signup-form"
 import { ClassifiedSection } from "../components/classified-section"
 import { TimelineRedaction } from "../components/timeline-redaction"
